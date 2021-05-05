@@ -1,8 +1,8 @@
 # Optimus #
 This is the implementation of the paper [Optimus: Towards Optimal Layer-Fusion on Deep Learning Processors]. 
 
-## Getting Started Guide##
-###Start from Source Code###
+## Getting Started Guide ##
+### Start from Source Code ###
 1. Create virtual env
 ```
 conda create --name optimusEnv python=3.6
