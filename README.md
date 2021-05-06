@@ -1,5 +1,6 @@
 # Optimus #
 [![DOI](https://zenodo.org/badge/364437098.svg)](https://zenodo.org/badge/latestdoi/364437098)
+
 This is the implementation of the paper [Optimus: Towards Optimal Layer-Fusion on Deep Learning Processors]. 
 
 ## Getting Started Guide ##
